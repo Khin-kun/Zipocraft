@@ -4,6 +4,10 @@
     padding: 0;
     box-sizing: border-box;
   }
+    .head img{
+    width: 100%;
+    height: auto;
+  }
   a{
     text-decoration: none;
     color: black;
