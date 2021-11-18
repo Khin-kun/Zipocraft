@@ -4,6 +4,12 @@
       width: 40%;
     }
 }
+@media screen and (max-width: 3400px) {
+  .head img{
+    width: 100%;
+    height: auto;
+  }
+}
 @media screen and (max-width: 1060px){
     .card-header img{
     height: 80px;
